@@ -6,6 +6,7 @@
 }
 .j {
     background-color: transparent;
+    height: 50vh;
 }
 .banner {
     background-image: url(images/banner.jpeg);
