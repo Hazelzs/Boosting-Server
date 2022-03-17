@@ -1,0 +1,18 @@
+.navbar a{
+    color: white;
+}
+.navbar {
+    background-color: transparent;
+}
+.j {
+    background-color: transparent;
+}
+.banner {
+    background-image: url(images/banner.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.jtext {
+    color: white;
+}
