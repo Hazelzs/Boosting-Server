@@ -6,13 +6,14 @@
 }
 .j {
     background-color: transparent;
-    height: 50vh;
+    height: 60vh;
 }
 .banner {
     background-image: url(images/banner.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    height:60vh;
 }
 .jtext {
     color: white;
@@ -20,3 +21,4 @@
 .jbanner {
     text-align: center;
 }
+
