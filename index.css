@@ -1,3 +1,7 @@
+*{
+    width:100%
+}
+
 .navbar a{
     color: white;
 }
@@ -6,19 +10,66 @@
 }
 .j {
     background-color: transparent;
-    height: 60vh;
+    height: 100vh;
 }
 .banner {
     background-image: url(images/banner.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height:60vh;
+    height:100vh;
 }
 .jtext {
     color: white;
 }
 .jbanner {
     text-align: center;
+}
+
+.who{
+    height:350px;
+    width: 100%;
+    background-color: #1f1f1f;
+    color: #f1f1f1;
+}
+
+.who_text {
+    margin-top:15px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.border{
+    margin-top: 65px;
+    margin-left: 290px;
+    border: #f1f1f1;
+    border-radius: 2px;
+    border-style: solid;
+    width:500px;
+}
+
+.who_image{
+    margin-top: 20px;
+    background-image: url(images/banner.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:300px;
+}
+
+.filler{
+    position:relative;
+    top:30px;
+    text-align: center;
+    height:210px;
+}
+
+
+.who_2{
+    height:800px;
+    width:100%;
+    background-color:#252323;
 }
 
