@@ -1,0 +1,62 @@
+body {
+    background-color: #1f1f1f;
+}
+
+.navbar {
+    height: 10vh
+}
+
+.btn {
+    color: #1f1f1f;
+    border-color: #1f1f1f;
+}
+
+.jumbo1 {
+    height: 90vh;
+    background-image: url(apex.jpg_large);
+    background-repeat: no-repeat;
+    background-size: 120%;
+    background-position: center;
+    overflow: hidden;
+    opacity: 100%;
+    z-index: 5;
+
+
+}
+
+
+#horizontal-line1 {
+    width: 100px;
+
+}
+
+.ab1 {
+    z-index: 10;
+    /* background-color: red; */
+    padding: 50px;
+    position: absolute;
+    top: 43%;
+    left: 5%;
+    color: white;
+    background-color: #1f1f1f;
+    opacity: 90%;
+    width: 40%;
+
+
+}
+
+.apexpred {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 40%;
+    width: 30%;
+  
+}
+
+.card-deck {
+    padding: 50px;
+
+    /* background-color: red; */
+}
